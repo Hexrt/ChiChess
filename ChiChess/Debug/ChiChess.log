@@ -1,0 +1,9 @@
+﻿D:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ChiChess.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+E:\VS2019\ChiChess\ChiChess\file_action.h(258,7): warning C4101: “ch”: 未引用的局部变量
+E:\VS2019\ChiChess\ChiChess\draw.h(174,7): warning C4101: “ch”: 未引用的局部变量
+E:\VS2019\ChiChess\ChiChess\net_work.h(163,43): warning C4244: “=”: 从“TCHAR”转换到“char”，可能丢失数据
+E:\VS2019\ChiChess\ChiChess\net_work.h(238,43): warning C4244: “=”: 从“TCHAR”转换到“char”，可能丢失数据
+E:\VS2019\ChiChess\ChiChess\control.h(271,54): warning C4244: “=”: 从“TCHAR”转换到“char”，可能丢失数据
+E:\VS2019\ChiChess\ChiChess\control.h(286,55): warning C4244: “=”: 从“TCHAR”转换到“char”，可能丢失数据
+  ChiChess.vcxproj -> E:\VS2019\ChiChess\Debug\CheChess.exe
